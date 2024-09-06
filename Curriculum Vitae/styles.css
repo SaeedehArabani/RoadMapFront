@@ -1,0 +1,42 @@
+/*
+Thanks FROM Alvarez https://github.com/isAlvarezDev/single-page-cv
+This CSS is written by: Alvarez
+
+*/
+
+body {
+    max-width: 55vw;
+    margin: 0 auto;
+    border: 3px solid black;
+    padding: 2rem;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+
+hr {
+    width: 70%;
+    margin-left: 0;
+    border: 2px solid black;
+}
+
+h2 {
+    font-size: 1.2rem;
+    color: #309041;
+}
+
+address {
+    font-style: normal;
+}
+
+section address {
+    display: inline-block;
+}
+
+h3 {
+    color: #1B72C2;
+    font-size: 1.1rem;
+}
+
+h2,h3,p,a {
+    text-align: justify;
+}
