@@ -1,5 +1,6 @@
 # RoadMapFront
 https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/basic-html-website
 # More Refferences
 I use these resources to create such a cv projects:
 1)	https://www.w3schools.com/html/html5_semantic_elements.asp
