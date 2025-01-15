@@ -5,7 +5,7 @@ https://roadmap.sh/projects/single-page-cv
 #project 2: basic html website
 https://roadmap.sh/projects/basic-html-website
 # More Refferences
-I use these resources to create such a cv projects:
+I use these resources to create such a cv project:
 1)	https://www.w3schools.com/html/html5_semantic_elements.asp
 2)	https://www.w3schools.com/tags/tag_meta.asp
 3)	https://medium.com/geekculture/open-graph-tags-in-html-101-5d470bbdb78a
